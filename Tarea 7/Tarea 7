@@ -1,0 +1,26 @@
+#!/bin/bash
+
+function host_name(){
+	host=$(hostname -I)
+	echo "hostname : " $host
+}
+
+function if_config(){
+	confi=$(curl ifconfig.me)
+	echo "ip privada: " $confi
+}
+
+function nmap_ip(){
+	nmapip=$(nmap 192.168.0.1)
+	echo "nmap segmento de red privado: " $nmapip
+}
+
+function nmap_pag(){
+	pag=$(nmap scanme.nmap.org)
+	echo "nmap pagina nmap: " $pag
+}
+
+host_name
+if_config
+nmap_ip
+nmap_pag
