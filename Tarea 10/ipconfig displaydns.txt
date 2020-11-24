@@ -1,0 +1,368 @@
+ipconfig /displaydns
+
+Configuraci¢n IP de Windows
+
+    merchandise.opera-api.com
+    ----------------------------------------
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2487
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.111
+
+
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2487
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.112
+
+
+    pps.whatsapp.net
+    ----------------------------------------
+    Nombre de registro  . : pps.whatsapp.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mmx-ds.cdn.whatsapp.net
+
+
+    Nombre de registro  . : mmx-ds.cdn.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 31.13.89.53
+
+
+    ocws.officeapps.live.com
+    ----------------------------------------
+    Nombre de registro  . : ocws.officeapps.live.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 95
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : prod.ocws1.live.com.akadns.net
+
+
+    Nombre de registro  . : prod.ocws1.live.com.akadns.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 95
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : us2.ocws1.live.com.akadns.net
+
+
+    Nombre de registro  . : us2.ocws1.live.com.akadns.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 95
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.109.20.72
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 944
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 944
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 944
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    odc.officeapps.live.com
+    ----------------------------------------
+    Nombre de registro  . : odc.officeapps.live.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : prod.odcsm1.live.com.akadns.net
+
+
+    Nombre de registro  . : prod.odcsm1.live.com.akadns.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : us2.odcsm1.live.com.akadns.net
+
+
+    Nombre de registro  . : us2.odcsm1.live.com.akadns.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 90
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.109.92.26
+
+
+    roaming.officeapps.live.com
+    ----------------------------------------
+    Nombre de registro  . : roaming.officeapps.live.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 136
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : prod.roaming1.live.com.akadns.net
+
+
+    Nombre de registro  . : prod.roaming1.live.com.akadns.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 136
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : us2.roaming1.live.com.akadns.net
+
+
+    Nombre de registro  . : us2.roaming1.live.com.akadns.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 136
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.109.0.29
+
+
+    r1---sn-vgqsknld.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-vgqsknld.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 312
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-vgqsknld.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-vgqsknld.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 312
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.9.38
+
+
+    sync.opera.com
+    ----------------------------------------
+    Nombre de registro  . : sync.opera.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 14
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : sync.geo.opera.com
+
+
+    Nombre de registro  . : sync.geo.opera.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 14
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : us.sync.opera.com
+
+
+    Nombre de registro  . : us.sync.opera.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 107.167.110.211
+
+
+    Nombre de registro  . : us.sync.opera.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 14
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 107.167.110.216
+
+
+    r3---sn-q4fl6nsl.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r3---sn-q4fl6nsl.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 378
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r3.sn-q4fl6nsl.googlevideo.com
+
+
+    Nombre de registro  . : r3.sn-q4fl6nsl.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 378
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.131.136
+
+
+    arc.msn.com
+    ----------------------------------------
+    Nombre de registro  . : arc.msn.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 39
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : arc.msn.com.nsatc.net
+
+
+    Nombre de registro  . : arc.msn.com.nsatc.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 39
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.184.215.140
+
+
+    www.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : www.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 4153
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.5.222
+
+
+    media-atl3-1.cdn.whatsapp.net
+    ----------------------------------------
+    Nombre de registro  . : media-atl3-1.cdn.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 18
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 31.13.65.49
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 606
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 606
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    deimos.dgi.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.235
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.236
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.228
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.226
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.238
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.225
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.237
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.229
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.239
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1500
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.227
+
+
+    web.whatsapp.com
+    ----------------------------------------
+    Nombre de registro  . : web.whatsapp.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mmx-ds.cdn.whatsapp.net
+
+
+    Nombre de registro  . : mmx-ds.cdn.whatsapp.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 6
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 31.13.89.53

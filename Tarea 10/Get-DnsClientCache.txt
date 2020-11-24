@@ -1,0 +1,44 @@
+Get-DnsClientCache
+
+Entry                     RecordName                Record Status    Section Ti
+                                                    Type                     me
+                                                                             To
+                                                                             Li
+                                                                             ve
+-----                     ----------                ------ ------    ------- --
+merchandise.opera-api.com merchandise.opera-api.com A      Success   Answer  42
+merchandise.opera-api.com merchandise.opera-api.com A      Success   Answer  42
+ocws.officeapps.live.com  ocws.officeapps.live.com  CNAME  Success   Answer  50
+ocws.officeapps.live.com  prod.ocws1.live.com.ak... CNAME  Success   Answer  50
+ocws.officeapps.live.com  us2.ocws1.live.com.aka... A      Success   Answer  50
+business.bing.com         business.bing.com         CNAME  Success   Answer  17
+business.bing.com         business-bing-com.b-00... CNAME  Success   Answer  17
+business.bing.com         b-0005.dc-msedge.net      A      Success   Answer  17
+fp-vp.azureedge.net       fp-vp.azureedge.net       CNAME  Success   Answer  99
+fp-vp.azureedge.net       fp-vp.ec.azureedge.net    CNAME  Success   Answer  99
+fp-vp.azureedge.net       cs9.wpc.v0cdn.net         A      Success   Answer  99
+odc.officeapps.live.com   odc.officeapps.live.com   CNAME  Success   Answer  45
+odc.officeapps.live.com   prod.odcsm1.live.com.a... CNAME  Success   Answer  45
+odc.officeapps.live.com   us2.odcsm1.live.com.ak... A      Success   Answer  45
+roaming.officeapps.liv... roaming.officeapps.liv... CNAME  Success   Answer  91
+roaming.officeapps.liv... prod.roaming1.live.com... CNAME  Success   Answer  91
+roaming.officeapps.liv... us2.roaming1.live.com.... A      Success   Answer  91
+r1---sn-vgqsknld.googl... r1---sn-vgqsknld.googl... CNAME  Success   Answer  67
+r1---sn-vgqsknld.googl... r1.sn-vgqsknld.googlev... A      Success   Answer  67
+r3---sn-q4fl6nsl.googl... r3---sn-q4fl6nsl.googl... CNAME  Success   Answer  33
+r3---sn-q4fl6nsl.googl... r3.sn-q4fl6nsl.googlev... A      Success   Answer  33
+arc.msn.com               arc.msn.com               CNAME  Success   Answer  94
+arc.msn.com               arc.msn.com.nsatc.net     A      Success   Answer  94
+www.uanl.mx               www.uanl.mx               A      Success   Answer  08
+ocsp.digicert.com         ocsp.digicert.com         CNAME  Success   Answer  61
+ocsp.digicert.com         cs9.wac.phicdn.net        A      Success   Answer  61
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
+deimos.dgi.uanl.mx        deimos.dgi.uanl.mx        A      Success   Answer  55
