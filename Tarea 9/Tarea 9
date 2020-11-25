@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while read correoAEnviar
+do;
+	sendemail -f correoqueenviamensajes@gmail.com -t $correoAEnviar -s smtp.gmail.com:587 -u "Titulo" -m "Mensaje" -v -xu correoqueenviamensajes -xp contraseña123 -o tls=yes
+done < "/root/Escritorio/correos"
